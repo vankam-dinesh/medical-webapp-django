@@ -8,7 +8,7 @@ This is a medical application to connect patients directly to doctors. It's a si
 \
 ![UI on a phone](./mobile_screenshot.jpeg)
 
-## How to run this project
+## How to run this project   
 
 ### With Docker
 Run:
