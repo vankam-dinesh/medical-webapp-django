@@ -14,7 +14,7 @@ This is a medical application to connect patients directly to doctors. It's a si
 Run:
 ```
 docker-compose up
-```
+```                                                                                               
 
 ### Without Docker
 In the base directory run:
